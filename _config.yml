@@ -1,5 +1,9 @@
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+title: 宠业老板资源圈
+description: >-
+  有价值的宠业老板资源圈
+baseurl: "" # 站点的子路径，例如 /blog，如果没有子路径，请留空
+url: "https://github.com/jgit853/petboss" # 站点的基础网址和协议
+
+# 构建设置
+markdown: kramdown
+theme: minima
